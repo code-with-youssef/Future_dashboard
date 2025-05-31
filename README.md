@@ -70,7 +70,7 @@ Key highlights include:
 
 - Agencies are **managed by the admin** but can log in to control their own team of creators.  
 - Each agency has a dashboard displaying aggregated data for all creators under it.  
-- Agencies can add, edit, and manage their content creators independently.  
+- Agencies can add and manage their content creators independently.  
 - Agencies see overall views, revenues, and reports specific to their organization.  
 - Admin oversees and can manage any agency or view their data.
 
