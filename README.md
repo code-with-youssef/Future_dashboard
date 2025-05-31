@@ -57,11 +57,11 @@ Key highlights include:
 - Views earnings in both local currency (EGP) and USD, based on admin-configured exchange rates.  
 - Has visibility into their revenue shares, detailed reports, and performance metrics.
 
-###Dashboard Section
+#### Dashboard Section
 ![alt text](image-3.png)
 ![alt text](image-4.png)
 
-###Profile Section
+#### Profile Section
 ![alt text](image-5.png)
 ![alt text](image-6.png)
 
